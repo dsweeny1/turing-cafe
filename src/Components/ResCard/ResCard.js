@@ -1,4 +1,5 @@
 import React from 'react'
+import './ResCard.css'
 
 const ResCard = ({ id, name, date, time, number }) => {
     return (
